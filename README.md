@@ -8,6 +8,11 @@ O projeto foi desenvolvido para o 1º Desafio de Dados(Data Viking), utilizando 
 
 **O projeto garantiu o 3º lugar no desafio!**
 
+Uma mostra da base de dados utilizada
+
+![Local Image](imagens/basededados.png)
+
+
 Existem apenas 213 funcionários com a permanência maior que dois anos.A análise fornece alguns insights os motivos do desligamento dos funcionários. Principais pontos levantados:
 
 -   Pontuação de Desempenho:Os funcionários desligados tendem a ter uma pontuação de desempenho superior à média, o que sugere que o desligamento não está relacionado ao baixo desempenho. Isso pode indicar que outros fatores estão contribuindo para o desligamento.

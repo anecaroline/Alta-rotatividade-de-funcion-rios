@@ -12,6 +12,15 @@ Uma mostra da base de dados utilizada
 
 ![Local Image](imagens/basededados.png)
 
+Abaixo estão alguns histogramas que nos permitem analisar as caracteristicas de cada coluna, comparando com desligados e não desligados e a relação com a média.
+
+![Local Image](imagens/histograma_Horas_Extras.png)
+![Local Image](imagens/histograma_Idade.png)
+![Local Image](imagens/histograma_Meses_de_Servico.png)
+![Local Image](imagens/histograma_Pontuacao_Desempenho.png)
+![Local Image](imagens/histograma_Salario.png)
+![Local Image](imagens/histograma_Satisfacao_Trabalho.png)
+
 
 Existem apenas 213 funcionários com a permanência maior que dois anos.A análise fornece alguns insights os motivos do desligamento dos funcionários. Principais pontos levantados:
 

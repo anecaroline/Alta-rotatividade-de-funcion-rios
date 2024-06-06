@@ -6,14 +6,9 @@ Para o departamento de Recursos Humanos, essas questões representam não apenas
 
 O projeto foi desenvolvido para o 1º Desafio de Dados(Data Viking), utilizando uma base de dados real de uma empresa com alta rotatividade de funcionários. Realizamos a análise e exploração dos dados para obter insights e aplicamos um modelo de classificação para prever o churn.
 
-![Histograma com média - Horas Extras](histograma_Horas_Extras.png)
-![Histograma com média - Idade](histograma_Idade.png)
-![Histograma com média - Meses de Serviço](histograma_Meses_de_Servico.png)
-![Histograma com média - Pontuação de Desempenho](histograma_Potuacao_Desempenho.png)
-![Histograma com média - Salário](histograma_Salario.png)
-![Histograma com média - Satisfação Com o Trabalho](histograma_Satisfacao_Trabalho.png)
+#####**O projeto garantiu o 3º lugar no desafio!**
 
-Existem apenas 213 funcionários com a permanência maior que dois anos.A análise acima fornece alguns insights os motivos do desligamento dos funcionários. Principais pontos levantados:
+Existem apenas 213 funcionários com a permanência maior que dois anos.A análise fornece alguns insights os motivos do desligamento dos funcionários. Principais pontos levantados:
 
 -   Pontuação de Desempenho:Os funcionários desligados tendem a ter uma pontuação de desempenho superior à média, o que sugere que o desligamento não está relacionado ao baixo desempenho. Isso pode indicar que outros fatores estão contribuindo para o desligamento.
 -   Satisfação com o Trabalho: A satisfação com o trabalho entre os funcionários desligados também é maior que a média. Isso pode indicar que o desligamento não está diretamente ligado à insatisfação com o trabalho.

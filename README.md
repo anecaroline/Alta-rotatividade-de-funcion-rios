@@ -6,7 +6,7 @@ Para o departamento de Recursos Humanos, essas questões representam não apenas
 
 O projeto foi desenvolvido para o 1º Desafio de Dados(Data Viking), utilizando uma base de dados real de uma empresa com alta rotatividade de funcionários. Realizamos a análise e exploração dos dados para obter insights e aplicamos um modelo de classificação para prever o churn.
 
-#####**O projeto garantiu o 3º lugar no desafio!**
+##**O projeto garantiu o 3º lugar no desafio!**
 
 Existem apenas 213 funcionários com a permanência maior que dois anos.A análise fornece alguns insights os motivos do desligamento dos funcionários. Principais pontos levantados:
 
